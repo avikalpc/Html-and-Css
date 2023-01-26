@@ -1,0 +1,76 @@
+html-used to create webpages
+website- collection of webpages
+
+3 types of webpages
+1) static website
+2) dynamic
+3) Web application
+
+*internet was invented in 1989,CERN
+*internet was invented by tim berners lee
+
+
+*html was invented in 1995
+*html was invented by tim berners lee
+** sgml is the origin of html
+**** Markup language means it can manipulate the text.
+
+
+*html has 2 basic elements
+i)tags:
+ TAG is a unique keyword enclosed with angular brackets(<>)
+html has 2 parts opening tag and closing tag
+
+
+ii)attributes:
+  properties of a tag is called as attribute
+  ex: key="value"
+
+ex:<h1 align="center">hello</h1>
+*html element is a combination of tag and elements.
+
+
+
+
+
+
+1)heading tags
+<h1>
+'
+'
+'
+<h6>
+
+
+2)paragraph tag
+<p>     </p>
+used to display the content in it in a paragraph 
+
+
+3)Break tag
+<br>
+*break tag is an unpaired tag
+used to break the line of the text
+the content will be displayed in the next line
+
+
+4)horizontal tag
+<hr>
+used to insert a horizontal line in the code
+
+
+5)list tags
+
+i)ordered list tags
+ex: <ol>
+<li>.....</li>
+</ol>
+
+
+ii)unordered list tags
+
+
+
+
+
+iii)description tags
